@@ -2,9 +2,14 @@
 
 
 
-<img align="center"  href="https://www.instagram.com/guilherme_nallon/" src="https://img.shields.io/static/v1?label=&style=flat-square&logo=Instagram&message=@guilherme_nallon&color=blueviolet"/>
 
-<h1 align="center">:octocat: <a href="https://www.instagram.com/guilherme_nallon/">@guilherme_nallon</a> :octocat:</h1>
+
+<p>
+  :octocat: 
+  <img align="center" src="https://img.shields.io/static/v1?label=&style=flat-square&logo=Instagram"/>
+  <a href="https://www.instagram.com/guilherme_nallon/">@guilherme_nallon</a> 
+  :octocat:
+</p>
 
 <p align="center">
   <img align="center" src="https://img.shields.io/static/v1?label=Tec&style=flat-square&logo=Ionic&message=Ionic&color=blue"/>
