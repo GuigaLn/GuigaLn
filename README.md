@@ -1,13 +1,11 @@
-@Guilherme Leonardo Nallon
+:octocat: @Guilherme Leonardo Nallon:octocat: 
 
 
 
 
 
 <p>
-  :octocat: <br>
-  <a href="https://www.instagram.com/guilherme_nallon/">@guilherme_nallon</a> <br>
-  :octocat:
+  <a  styke="color:purple" href="https://www.instagram.com/guilherme_nallon/">Instagram</a> 
 </p>
 
 <p align="center">
