@@ -3,7 +3,7 @@
 
 
 <p>
-  <a  style="color:purple" href="https://www.instagram.com/guilherme_nallon/">Instagram</a> 
+  <a  href="https://www.instagram.com/guilherme_nallon/">Instagram</a> 
 </p>
 
 Enthusiast of the best mobile and mobile development technologies.
