@@ -1,9 +1,13 @@
-CTO @Rocketseat.
+@Guilherme Leonardo Nallon
 
-Twitter Badge Linkedin Badge Gmail Badge
+<p align="center">
+  <img align="center" src="https://img.shields.io/static/v1?label=Tec&style=flat-square&logo=Ionic&message=Ionic&color=blue"/>
+  <img align="center" src="https://img.shields.io/static/v1?label=Tec&style=flat-square&logo=Firebase&message=Firebase&color=blue"/>
+  <img align="center" src="https://img.shields.io/static/v1?label=Tec&style=flat-square&logo=TypeScript&message=TypeScript&color=blue"/>
+</p>
 
-Enthusiast of the best web & mobile development technologies.
+Enthusiast of the best mobile and mobile development technologies.
 
-Passionate about education and changing people's lives through programming. More than 200,000 people have already undergone one of my trainings.
+Passionate about programming.
 
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
+" Those who don't believe in magic will never find it ", Roald Dahl.
