@@ -2,7 +2,8 @@
 
 
 
-<img src="https://img.shields.io/static/v1?label=<LABEL>&message=<a href='https://www.instagram.com/guilherme_nallon/'>Instagram</a>&color=blueviolet" />
+<img src="https://img.shields.io/static/v1?label=Instagram&message=Instagram>Instagram</a>&color=blueviolet" />
+<img align="center" src="https://img.shields.io/static/v1?label=Tec&style=flat-square&logo=Ionic&message=Ionic&color=blue"/>
 
 
 <p align="center">
