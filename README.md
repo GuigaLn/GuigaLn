@@ -2,7 +2,7 @@
 
 
 
-<img align="center" src="https://img.shields.io/static/v1?label=Instagram&style=flat-square&logo=Ionic&message=Ionic&color=blueviolet"/>
+<img align="center" src="https://img.shields.io/static/v1?label=&style=flat-square&logo=Instagram&message=Ionic&color=blueviolet"/>
 
 
 <p align="center">
