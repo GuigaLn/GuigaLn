@@ -5,7 +5,7 @@
 
 
 <p>
-  :octocat: 
+  :instagram: 
   <img align="center" src="https://img.shields.io/static/v1?l&logo=Instagram&message=ee"/>
   <a href="https://www.instagram.com/guilherme_nallon/">@guilherme_nallon</a> 
   :octocat:
