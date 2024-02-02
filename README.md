@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Guilherme Leonardo Nallon and I'm a developer, from Brazil</h2>
 
 ###
 
@@ -49,11 +49,3 @@
 <div align="center">
   <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GuigaLn/GuigaLn/output/snake.svg" alt="Snake animation" />
-
-###
